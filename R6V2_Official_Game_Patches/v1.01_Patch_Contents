@@ -1,0 +1,51 @@
+================================================================================
+
+Tom Clancy's Rainbow Six® Vegas 2 v1.01 Patch Contents
+
+================================================================================
+
+ 
+
+Features:
+
+ * Added Voice Chat Support 
+ * Pressing F5 now refreshes the match search list 
+ * Fix for spawn camping 
+ * Switch weapon is now faster in adversarial 
+ * Lower respawn timer for deathmatch and team deathmatch 
+ * Added Team balance XP penalty  
+ * Enabled outfitting option in observer mode. 
+ * Team Leader respawn modification: Respawning with the leader is now the default option
+
+
+Bugs fixed:
+
+ * Fixed hang time when playing matches on certain graphics hardware
+ * Fixed delays for clients when using the custom face feature in-game
+ * Fixed game crash when the user would click in a certain area from the Leaderboards menu
+ * Fixed textures corruption when changing antialiasing repeatedly on certain graphics hardware
+ * Reviewed some achievements unlock when playing online 
+ * Fixed game mode selection bug after being kicked from a dedicated server
+ * Fixed online problem of client being thrown out of a game when host uses Alt+Tab
+ * Fixed problem related to weapon templates switch when using only a keyboard
+ * Fixed the map update in the games list when the SADS uses map cycle
+ * Fixed issue with The Ace Always Wins! reward 
+ * Fixed malfunction with mouse/keyboard uses in menus 
+ * Fixed a client crash releated to host changing server for the Comcast Event map
+ * Fixed issue with the Face Scan on certain camera hardware
+ * Added fix to prevent opening console while chatting
+ * Fixes allowing better support of ATI Crossfire configuration
+ * Fixed HUD problems when using all of the Rainbow's grenades
+ * Fixed issue when the host would get stuck in the pause menu by kicking the clients while he is respawning
+ * Fixed a black screen issue when client would join a game in progress.
+ * Fixed problems related to weapon restriction configuration in Terrorist Hunt
+ * Fixed experience boost exploit in the first act in single player
+ * Fixed issue of the crosshairs that disapear when taking cover and aiming simultaneously.
+ * Fixed sound issue when Bishop's weapons are lost if the user shoots and kills Dennis Cohen.
+ * Fixed the wrong behavior of a hand gun after changing it from Outfitting menu.
+ * Fixed issue where client gets stuck in the respawn screen at 0 seconds while in observer mode
+ * Fixed respawn issue when playing terrorist hunt game at realistic difficulty
+ * Fixed issue of the laser beam shifting off target after shooting with a pistol
+ 
+
+================================================================================
