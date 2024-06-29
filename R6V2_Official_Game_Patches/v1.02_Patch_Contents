@@ -1,0 +1,23 @@
+================================================================================
+
+Tom Clancy's Rainbow Six® Vegas 2 v1.02 Patch Contents
+
+================================================================================
+
+ 
+Features:
+
+ * Added Speech Recognition.
+ * Added KillCam and SwapTeam to SADS options.
+ * Added SADS output log and automatic reconnection after network lost.
+
+Bugs fixed:
+
+ * Fixed Players loosing XP when server was closed before end.
+ * Fixed Crashdumps generation.
+ * Fixed Comcast installation error.
+ * Fixed SADS crashes when connecting using custom camo.
+ * Fixed SADS running on Microsoft Windows 2003 Server can not connect more than 1 client. 
+ 
+
+================================================================================
