@@ -1,0 +1,245 @@
+################################################################################
+
+Ubisoft Entertainment
+Assassin's Creed
+LEGGIMI.TXT 1.00
+
+################################################################################
+
+Sommario
+
+################################################################################
+
+1. Come installare il gioco 
+1.1. Requisiti di sistema
+1.2. Selezione lingua
+2. Problemi noti 
+2.1. Installare i driver video
+2.2. Installare i driver audio
+2.3. Installare DirectX 10
+2.4. Bug e commenti
+3. Siti web rilevanti, Contatti e Assistenza Tecnica
+3.1. Assistenza Tecnica
+3.2. Siti web rilevanti
+
+################################################################################
+
+1. Come installare il gioco 
+
+################################################################################
+
+1.1. Requisiti di sistema
+
+Configurazione minima:
+  CPU: Processori Intel e AMD, a 3,2 GHz
+  Sistema operativo: Windows Vista
+  Memoria: 2,0 GB di RAM
+  Spazio su disco: 14 GB
+  Scheda video: Direct X 10 compatibile con 256 MB di VRAM, 
+  Scheda audio: Compatibile DirectX 10
+  Versione DirectX: 10
+
+Configurazione consigliata:
+  CPU: Processori Intel e AMD 3,2 GHz
+  Sistema operativo: Windows Vista
+  Memoria: 2,0 GB di RAM
+  Spazio su disco: 14 GB
+  Scheda video: DirectX 10 compatibile con 512 MB di VRAM
+  Versione DirectX: 10
+
+Schede video supportate:
+  ATI Radeon HD2600/HD2800
+  NVIDIA GeForce 8600/8800
+
+Schede audio supportate:
+-Creative SB X-FI
+-Creative SB Audigy IV
+-Creative SB Audigy II
+-Creative SB Audigy II USB
+-Creative SB Audigy LS
+-Creative SB Audigy
+-Creative SB Extigy USB
+-Creative SB Live
+-Creative SB 512
+-Creative SB 128
+-Hercules Fortissimo III
+-Hercules DigiFire
+-Hercules Muse XL
+-Turtle Beach Montego DDL Turtle Beach Riviera
+-Aopen Cobra Aw-850D
+-Realtek AC97
+-C-Media
+-SoundMax HD
+
+Game Pad Pris supportate:
+-Logitech Dual Action / Rumblepad2 / Rumblepad2 Cordless 
+-Logitech® Cordless Rumblepad 
+-Logitech® Rumblepad 
+-Logitech® Rumblepad Vibration Feedback Gamepad  
+-Saitek  P880 Rumble Pad, P3000 RF, P2500
+-Saitek P990, P2900 Dual Analog Pad
+-Saitek P2600
+-Thrustmaster Dual Trigger Serie, Dual Analog 3 & firestorm wireless
+-Thrustmaster Dual Trigger Serie,  Thrustmaster 360 Moderna
+-Thrustmaster Dual Trigger Serie, Thrusmaster dual trigger gamepad PC/PS2 3.2"
+-Madcatz Pc Con
+-Madcatz Pc wireless
+-Xbox 360 / Xbox
+-Belkin, Nostromo
+-Logitech® Wingman rumblepad
+-Thrustmaster Rechargeable Wireless Dual Trigger 2-in-1
+-Se riscontri problemi, leggi il capitolo 3.4.
+
+--------------------------------------------------------------------------------
+1.2. Selezione lingua
+
+La lingua selezionata durante l'installazione verrà utilizzata all'interno del
+gioco. Per cambiare lingua è necessario disinstallare e reinstallare i gioco.
+
+
+################################################################################
+
+2. Problemi noti
+
+################################################################################
+
+2.1. Installare i driver per la scheda video e la scheda madre
+
+Se riscontri problemi relativi alla grafica o alla scheda madre, installa gli ultimi
+driver disponibili per la tua scheda. I link ai produttori più noti sono disponibili 
+alla fine di questo documento.
+
+--------------------------------------------------------------------------------
+2.2. Installare i driver audio
+
+Se riscontri problemi relativi all'audio, installa gli ultimi driver disponibili
+per la tua scheda audio. I link ai produttori delle più importanti schede video
+sono disponibili alla fine di questo documento.
+
+--------------------------------------------------------------------------------
+2.3. Installare DirectX 10
+
+Assassin's Creed richiede DirectX 10 o una versione più recente per un
+corretto funzionamento. Per ottenere l'ultima versione di DirectX, visita:
+http://www.microsoft.com/windows/directx
+
+DirectX 10 è fornito nel disco d'installazione nella cartella Support\DirectX.
+
+--------------------------------------------------------------------------------
+2.4. Bug e Commenti
+
+
+################################################################################
+
+3. Siti web rilevanti, Contatti e Assistenza Tecnica
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1. Assistenza Tecnica
+
+Prima di contattare l'Assistenza Tecnica di Ubi Soft Entertainment, svolgi una
+ricerca nel nostro elenco di FAQ o nel database di supporto sul nostro sito web
+http://support.ubi.com. Qui troverai le informazioni più recenti dall'uscita del
+gioco.
+
+Inoltre, controlla che il tuo computer soddisfi i requisiti minimi di sistema,
+perché i membri dell'Assistenza Tecnica non potranno aiutare i clienti i cui
+computer non soddisfino tali criteri.
+
+Se contatti l'Assistenza Tecnica, includi le seguenti informazioni o tienile
+a portata di mano in caso telefonassi:
+
+- Titolo completo del gioco (incluso il numero di versione)
+- Il messaggio di errore esatto (se disponibile) e una breve descrizione del
+problema 
+- Velocità e produttore del processore
+- Quantità di RAM
+- Sistema operativo
+- Scheda video in uso e quantità di VRAM
+- Modello e velocità del lettore CD-ROM o DVD-ROM
+- Modello di scheda audio in uso
+
+Contattaci tramite Internet
+È il modo migliore di contattarci. Il nostro sito web è online 24 ore su 24, 7
+giorni su 7, e include le informazioni più recenti dell'Assistenza Tecnica, tra
+cui patch da scaricare gratuitamente. Aggiorniamo le pagine dell'Assistenza
+Tecnica tutti i giorni, quindi controlla prima le soluzioni qui proposte per i
+tuoi problemi:
+http://support.ubi.com/.
+
+Contattaci tramite posta elettronica
+Per una risposta più rapida tramite mail, visita il nostro sito web su:
+http://support.ubi.com/
+
+Da questo sito, potrai accedere al Centro Soluzioni di Ubi Soft Entertainment,
+dove puoi scorrere il nostro elenco di FAQ (Frequently Asked Questions),
+svolgere ricerche nel nostro database di problemi noti e soluzioni, o, per una
+risposta più rapida tramite mail, inviare una richiesta per Assistenza Personale
+da un Membro dell'Assistenza Tecnica
+Potrebbero intercorrere 72 ore prima di ricevere una risposta alla tua mail, in
+base al volume di messaggi ricevuti 
+
+Contattaci tramite telefono
+Puoi anche contattarci telefonicamente, chiamando il (919) 460-9778. Nota che
+questo numero è dedicato solo all'Assistenza Tecnica, e non una linea che può
+dare consigli. Quando contatti per telefono la nostra Assistenza Tecnica,
+assicurati di stare davanti al tuo computer e avere sotto mano tutte le 
+sopraccitate informazioni necessarie.
+Ricorda che i membri dell'Assistenza Tecnica sono disponibili dal lunedì al
+venerdì, dalle h. 9 alle h. 19 (Ora Standard Orientale degli USA).
+Il servizio normalmente è gratuito, ma se chiami da un paese lontano, la
+telefonata sarà soggetta a costi. Per evitarlo, o evitare di contattare un
+membro dell'Assistenza Tecnica direttamente dopo gli orari, adotta uno degli
+altri metodi precedentemente illustrati per contattarci. I problemi pervenutici
+tramite mail, di solito, ricevono una risposta entro 2 giorni lavorativi.
+
+Contattaci tramite posta ordinaria
+
+Se tutto questo non risolve il tuo problema, puoi sempre scriverci al seguente
+indirizzo:
+
+Ubisoft Technical Support
+3200 Gateway Center Blvd
+Suite 100
+Morrisville, NC 27560
+
+--------------------------------------------------------------------------------
+3.2. Siti web rilevanti
+
+Sito web ufficiale di Assassin's Creed:
+	http://assassinscreed.it.ubi.com/
+
+DirectX 9 Runtime:
+    http://www.microsoft.com/downloads
+
+Driver ATI più aggiornati:
+	http://ati.amd.com/support/driver.html
+
+Driver NVIDIA più aggiornati:
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+Driver Creative Labs più aggiornati:
+	http://it.europe.creative.com/
+	
+Driver Intel più aggiornati:
+	http://downloadcenter.intel.com/
+	
+Driver AMD più aggiornati:
+	http://www.amd.com/
+                                                                                                                                                                                                                                                  
+                                                  
+                                                                                                                                                                                                       
+                                                                    
+                                                                                                                                                                                                                                               
+                
+                                                                             
+                                                                              
+                                                                                                                                        
+                       
+                                                                        
+          
+                                                                                 
+                                                                                                                  
+                                                                                                                                                                                                                                                            
+                                                                                                                                                                          

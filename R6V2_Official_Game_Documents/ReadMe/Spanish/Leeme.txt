@@ -1,0 +1,189 @@
+################################################################################
+
+Ubisoft Entertainment
+Tom Clancy's Rainbow Six Vegas 2
+LEEME.TXT 1.00
+
+################################################################################
+
+Índice
+
+################################################################################
+
+1. Instrucciones de instalación
+1.1. Requisitos del sistema
+1.2. Selección de idioma
+2. Problemas conocidos
+2.1. Instalación de controladores gráficos
+2.2. Instalación de controladores de sonido
+2.3. Instalación de DirectX 9.0c
+2.4. Errores y comentarios
+3. Webs importantes, información de contacto y soporte técnico
+3.1. Servicio de atención técnica
+3.2. Webs importantes
+
+################################################################################
+
+1. Instrucciones de instalación
+
+################################################################################
+
+1.1. Requisitos del sistema
+
+Configuración mínima:
+  CPU: Procesador Intel Pentium 4 de 3GHz con Hyper Threading o AMD Athlon 3000
+  Sistema operativo: Windows Vista/Windows XP SP2 (solo)
+  Memoria: 1024Mb para Windows XP/2048Mb para Windows Vista
+  Espacio en disco: 7Gb
+  Tarjeta gráfica: Compatible DirectX con 128Mb y Shader 3.0
+  Tarjeta de sonido: Compatible DirectX 
+  Versión de DirectX: 9.0c (rutinas incluidas en el disco)
+
+Configuración recomendada:
+  CPU: Procesadores Intel y AMD de 3,2 GHz
+  Sistema operativo: Windows Vista/Windows XP SP2 (solo)
+  Memoria: 2048Mb de RAM
+  Espacio en disco: 7Gb
+  Tarjeta gráfica: Compatible DirectX con 256Mb y Shader 3.0
+  Versión de DirectX: 9.0c (rutinas incluidas en el disco)
+
+* No es aconsejable instalar el juego en la carpeta de Windows (generalmente, C:\Windows), ni en una subcarpeta dentro de la carpeta Windows, ni en el directorio raíz del disco de sistema (generalmente, C:\).
+
+Tarjetas gráficas soportadas:
+  ATI Radeon X1000 series - Radeon X1600, X1800, X1900, X1950
+  ATI Radeon HD 2000 Series - HD 2600, HD 2900, GT/XT
+  ATI Radeon HD 3000 Series - HD 3850, HD 3870, HD 3870 X2
+  NVIDIA GeForce 6 Series - GeForce 6800 Ultra, 6800 GT, 6800, y 6600 GT
+  NVIDIA GeForce 7 Series - GeForce 7950, 7900, 7800, 7600 
+  NVIDIA GeForce 8 Series - GeForce 8800 Ultra, 8800 GTX, 8800 GTS, 8800 GT, 
+                            8800 GS, 8600 GTS, 8600GT, 8500 GT
+  NVIDIA GeForce 9 Series - GeForce 9600 GT
+
+* Los modelos ATI HD 2400 y NVIDIA GeForce 7300 están soportados, pero ten en cuenta
+que el rendimiento de esas tarjetas puede no aportar una buena experiencia de juego.
+
+* Tarjetas gráficas no soportadas: Ningún modelo AGP
+
+Tarjeta de sonido soportadas:
+ Creative X-FI PCI-Express 
+ Creative Audigy IV series 
+ Creative Audigy II Series
+ Creative Audigy I Series
+
+Tarjetas de sonido estéreo soportadas: 
+ En placa base - Realtek HD
+ En placa base - SoundMAX HD
+ En placa base - Sigmatel
+ En placa base - C-Media
+ Hercules Series
+ Turtle Beach series
+
+Mandos soportados:
+  Xbox 360
+
+--------------------------------------------------------------------------------
+1.2. Selección de idioma
+
+El idioma seleccionado al principio de la instalación es el que se utilizará en
+el juego. Para cambiar el idioma, desinstala y vuelve a instalar el juego.
+
+
+################################################################################
+
+2. Problemas conocidos
+
+################################################################################
+
+2.1. Instalación de controladores gráficos y de la placa base
+
+Si tienes cualquier problema de tipo gráfico, instala los controladores más 
+recientes para tu tarjeta de vídeo y tu placa base. En la última parte de este 
+documento encontrarás la dirección web de los principales fabricantes de tarjetas.
+
+--------------------------------------------------------------------------------
+2.2. Instalación de los controladores de sonido
+
+Si tienes cualquier problema con el sonido, instala los controladores más 
+recientes para tu tarjeta de sonido. En la última parte de este documento 
+encontrarás la dirección web de los principales fabricantes de tarjetas.
+
+--------------------------------------------------------------------------------
+2.3. Instalación de DirectX 9.0c
+
+Tom Clancy's Rainbow Six Vegas 2 necesita la versión 9.0c o incluso más reciente de 
+las rutinas DirectX. Para conseguir estos controladores visita el web:
+http://www.microsoft.com/windows/directx
+
+También se proporciona DirectX 9.0c en el disco de instalación, en la carpeta
+Support\DirectX.
+
+--------------------------------------------------------------------------------
+2.4. Bugs y comentarios
+
+
+################################################################################
+
+3. Webs importantes, información de contactos y soporte técnico
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1. Servicio de Atención Técnica
+
+Para prestar un mejor servicio, ahora Ubisoft ofrece soporte ON-LINE.
+
+Sencillamente acude a www.ubisoft.es y visita en primer lugar la sección de 
+Soporte. Consultando la base de datos de FAQs obtendrás las mismas respuestas 
+que llamando por teléfono o enviando un correo electrónico a nuestro personal 
+de soporte técnico, además las FAQs ¡están disponibles las 24 horas!
+
+Si usas la opción de Formular pregunta, dentro de las FAQs, te aseguras de que 
+obtenemos toda la información importante que podemos necesitar de tu sistema y 
+del posible problema, por lo que podremos contestarte mejor.
+
+Asegúrate de incluir toda la información de tu sistema, el problema y el título 
+que estás jugando.
+
+Si no tienes posibilidad de usar e-mail, nuestro personal de soporte puede 
+ayudarte en el 902 11 78 03, de lunes a jueves de 16:30 a 18:30 h. 
+(consulta el coste de llamada a un 902 a tu operador). Por favor, cuando llames 
+permanece delante de tu sistema encendido.
+
+--------------------------------------------------------------------------------
+3.2. Webs importantes
+
+Web oficial de Tom Clancy's Rainbow Six Vegas 2:
+	http://www.rainbowsixgame.com
+
+Rutinas DirectX para el usuario final:
+    http://www.microsoft.com/downloads
+
+Controladores ATI:
+	http://ati.amd.com/support/driver.html
+
+Controladores NVIDIA:
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+Controladores Creative Labs:
+	http://es.europe.creative.com/
+
+Controladores Intel:
+	http://downloadcenter.intel.com/
+	
+Controladores AMD:	
+	http://www.amd.com/                                                                                                                                       
+                       
+                                                                                  
+                                                                                                                                                                                                                                  
+                                       
+                                                                                                                                                                
+                                                                                                                                                                                                                       
+                                                                      
+                                                                                                                                
+                                                                                                                                    
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                         
+                                                              
+                                                                                                                                                                                                    
+                                   
+                                                                                                                                                                                                

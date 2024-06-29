@@ -1,0 +1,248 @@
+################################################################################
+
+Ubisoft Entertainment
+Tom Clancy's Rainbow Six Vegas 2
+LIES-MICH.TXT 1.00
+
+################################################################################
+
+Inhaltsverzeichnis
+
+################################################################################
+
+1.   Installationsanweisungen
+1.1. Systemanforderungen
+1.2. Sprachauswahl
+2.   Bekannte Probleme
+2.1. Installation der Grafiktreiber
+2.2. Installation der Soundtreiber
+2.3. Installation von DirectX 9.0c
+2.4. Bugs und Kommentare
+3.   Wichtige Websites, Kontakt-Informationen und Technischer Kundendienst
+3.1. Ubisoft Kundendienst
+3.2. Wichtige Websites
+
+################################################################################
+
+1. Installationsanweisungen
+
+################################################################################
+
+1.1. Systemanforderungen
+
+Minimum Konfiguration:
+  CPU: 3 Ghz Pentium 4 mit Hyper Threading oder AMD Athlon 3000
+  Betriebssystem: Windows Vista / Windows XP SP2 (ausschließlich)
+  Speicher: 1024 MB für Windows XP / 2048 MB für Windows Vista
+  Festplattenplatz: 7 GB 
+  Grafikkarte: DirectX-kompatible Grafikkarte mit 128 MB und Shader 3.0
+  Soundkarte: DirectX-kompatible Soundkarte
+  DirectX Version: DirectX 9.0c (auf Disk enthalten)
+
+Empfohlene & bevorzugte Konfiguration:
+  CPU: Intel- und AMD-Prozessoren ab 3,2 GHz
+  Betriebssystem: Windows Vista/Windows XP SP2 (ausschließlich)
+  Speicher: 2048 MB RAM
+  Festplattenplatz: 7 GB
+  Grafikkarte: DirectX-kompatible Grafikkarte mit 256 MB und Shader 3.0
+  Soundkarte: DirectX-kompatible Soundkarte
+  DirectX Version: DirectX 9.0c (auf Disk enthalten)
+
+* Es ist nicht empfehlenswert das Spiel in den Windows-Ordner (C:\Windows) oder einen dort liegenden Unterordner noch in das Wurzelverzeichnis (C:\) zu installieren. 
+
+Unterstützte Grafikkarten:
+  ATI Radeon X1000-Reihe - Radeon X1600, X1800, X1900, X1950
+  ATI Radeon HD 2000-Reihe - HD 2600, HD 2900, GT/XT
+  ATI Radeon HD 3000-Reihe - HD 3850, HD 3870, HD 3870 X2
+  NVIDIA GeForce 6-Reihe - GeForce 6800 Ultra, 6800 GT, 6800, and GeForce 6600 GT
+  NVIDIA GeForce 7-Reihe - GeForce 7950-Reihe, 7900-Reihe, 7800-Reihe, 7600-Reihe,
+  NVIDIA GeForce 8-Reihe - GeForce 8800 Ultra , GeForce 8800 GTX , GeForce 8800 GTS, GeForce 8800 GT , GeForce 8800 GS , GeForce 8600 GTS , GeForce 8600GT, GeForce 8500 GT
+  NVIDIA GeForce 9-Reihe - GeForce 9600 GT
+ 
+ * ATI HD 2400-Modelle / Nvidia GEforce 7300-Modelle werden unterstützt, aber bedenken Sie, dass die Leistungen dieser Grafikchips evtl. kein befriedigendes Spielerlebnis garantieren können.
+ 
+ * Nicht unterstützte Grafikkarten: Alle AGP-Karten
+
+Unterstützte Soundkarten 5.1 Surround Sound:
+ Creative X-FI Pci-Express 
+ Creative Audigy IV series 
+ Creative Audigy II Series
+ Creative Audigy 1 Series
+ 
+Unterstützte Soundkarten Stereo:
+ Onboard - Realtek HD
+ Onboard - SoundMAX HD
+ Onboard - Sigmatel
+ Onboard - C-Media
+ Hercules Series
+ Turtles Beach series
+
+Unterstützte Game Pads :
+  Xbox 360
+
+--------------------------------------------------------------------------------
+1.2. Sprachauswahl
+
+Die zu Beginn der Installation gewählte Sprache wird im Spiel verwendet. Um die
+Sprache zu ändern, müssen Sie das Spiel erst deinstallieren und dann erneut
+installieren.
+
+
+################################################################################
+
+2. Bekannte Probleme
+
+################################################################################
+
+2.1. Installation der Grafik- und Mainboardtreiber
+
+Wenn Sie Grafik-Probleme feststellen sollten, dann installieren Sie bitte die
+aktuellsten verfügbaren Treiber für Ihre Grafikkarte und Ihr Mainboard. 
+Links zu den bekanntesten Herstellern von Grafikkarten und Mainboards 
+finden Sie am Ende dieses Dokuments.
+
+--------------------------------------------------------------------------------
+2.2. Installation der Soundtreiber 
+
+Wenn Sie Sound-Probleme feststellen sollten, dann installieren Sie bitte die
+aktuellsten verfügbaren Treiber für Ihre Soundkarte. Links zu den bekanntesten
+Herstellern von Soundkarten finden Sie am Ende dieses Dokuments.
+
+--------------------------------------------------------------------------------
+2.3. Installation von DirectX 9.0c
+
+Tom Clancy's Rainbow Six Vegas 2 benötigt DirectX 9.0c oder höher, um fehlerfrei 
+zu funktionieren.
+Die jeweils neueste Version von DirectX finden Sie auf der folgenden Webseite:
+http://www.microsoft.com/windows/directx
+
+DirectX 9.0c befindet sich auf der Installationsdisk im Verzeichnis
+Support\DirectX.
+
+--------------------------------------------------------------------------------
+2.4. Bugs und Kommentare
+
+
+################################################################################
+
+3. Wichtige Websites, Kontakt-Informationen und Technischer Support
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1 Ubisoft Kundendienst
+
+Kostenloser Kundenservice
+
+Besuchen Sie uns im Internet
+
+Service rund um die Uhr. Wir haben für Sie 24 Stunden täglich an sieben Tagen der
+Woche geöffnet.
+Besuchen Sie uns im Internet unter:
+
+http://support.ubisoft.de
+
+Sollten Sie Fragen oder Probleme mit einem unserer Produkte haben, bieten wir Ihnen
+hier einfach und kostenlos Antworten bzw. Lösungen, auf die meistgestellten Fragen. 
+So finden Sie häufig die Antwort, die Ihnen unsere Kundendienst-Mitarbeiter via 
+Telefon gegeben hätten!
+
+Bevor Sie sich an den technischen Kundendienst wenden:
+
+Überprüfen Sie bitte unbedingt, ob Sie die Systemvoraussetzungen für das Produkt 
+erfüllen. Zur Analyse Ihres Systems können Sie das von uns entwickelte Programm 
+(Tool) "SAN" benutzen. Mit diesem Tool können Sie schnell und einfach Ihre 
+Systemkomponenten überprüfen.
+   
+	(Das Tool finden Sie unter: http://support.ubisoft.de/)
+
+Achten Sie insbesondere darauf, dass Sie eine Grafikkarte verwenden, die mit dem 
+Produkt kompatibel ist!
+
+
+Persönliche Unterstützung 
+
+Sollten Sie, wider Erwarten, keine Lösung in unserem Solution Center (unserer 
+Wissensdatenbank) und im Forum für Ihr Problem gefunden haben, können Sie gerne 
+eine kostenlose Anfrage an unser Supportteam stellen. Nutzen Sie dazu bitte die 
+"Fragen Sie uns"-Schaltfläche im Solution Center unter: 
+
+http://support.ubisoft.de/
+
+Kostenpflichtiger Kundenservice
+
+Kundendienst
+
+Unsere Kundendienst-Mitarbeiter stehen Ihnen von Mo-Fr 09:00 - 19:00 Uhr unter der 
+kostenpflichtigen Rufnummer 0900 - 1824832 (0,24 Euro/Minute aus dem Festnetz der 
+deutschen Telekom) hilfreich zur Seite. (Die Hotline-Nummer kann nicht aus dem 
+Mobilfunknetz erreicht werden, oder wenn eine Sperre für 0900er Nummern aktiviert 
+ist!)
+
+Tipps und Tricks
+
+Sie kommen an einer bestimmten Stelle im Spiel nicht weiter? Sie suchen nach Cheats, 
+um in den nächsten Level zu gelangen? Unsere Tipps-und-Tricks-Spiele-Hotline steht 
+Ihnen täglich von 8:00 - 24:00 Uhr unter folgender Telefonnummer zur Verfügung:
+
+0900 - 1824847
+
+(1,86 Euro/Minute aus dem Festnetz der deutschen Telekom. Diese Hotline-Nummer kann
+nicht aus dem Mobilfunknetz erreicht werden, oder wenn eine Sperre für 0900er 
+Nummern aktiviert ist.)
+Bitte schicken Sie nie unaufgefordert Produkte und/oder Programme ein. Nehmen Sie 
+bitte immer erst Kontakt zu uns auf, um eine schnellstmögliche Bearbeitung zu 
+gewährleisten.
+
+
+Ihr Ubisoft Team
+
+
+
+Für unsere Kunden aus Österreich stehen folgende Hotline-Nummern zur Verfügung:
+
+Technische Hotline: 0900 060860   (für 0,27 Euro/min aus dem Festnetz. 
+Vom Mobilfunknetz aus nicht erreichbar!)
+
+Tipps und Tricks:  0900 510995    (für 2,17 Euro/min. aus allen Netzen.)
+
+
+--------------------------------------------------------------------------------
+3.2. Wichtige Websites
+
+Tom Clancy's Rainbow Six 2 offizielle Website:
+	http://www.rainbowsixgame.com
+
+DirectX 9 Endbenutzer-Runtime:
+    	http://www.microsoft.com/downloads
+
+Neueste ATI-Treiber:
+	http://www.ati.com/support/driver.html
+
+Neueste NVIDIA-Treiber:
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+Neueste Creative Labs-Treiber:
+	http://de.europe.creative.com/
+
+Neueste Intel-Treiber:
+	http://downloadcenter.intel.com/
+	
+Neueste AMD-Treiber:
+	http://www.amd.com/
+                                                                                                      
+                                                                                                                                                                                                                                                     
+                                                                       
+                                                                                                          
+       
+                                                                                                                                                                    
+                                                                                                                    
+                                                                  
+                                                                                                                                                                               
+                                                             
+                                                      
+                                             
+                                                                                                                                                                                                                                               
+                                                                                               
+                                                                                                                                                                                                               
+                                                                                                                                                                                                                                

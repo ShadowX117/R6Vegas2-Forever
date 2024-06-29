@@ -1,0 +1,233 @@
+################################################################################
+
+Ubisoft Entertainment
+Tom Clancy's Rainbow Six Vegas 2
+README.TXT 1.00
+
+################################################################################
+
+Table des matières
+
+################################################################################
+
+1. Instructions pour l'installation
+1.1. Configuration nécessaire
+1.2. Sélection de la langue
+2. Problèmes connus
+2.1. Installation des pilotes d'affichage
+2.2. Installation des pilotes audio
+2.3. Installation de DirectX 9.0c
+2.4. Bugs et commentaires
+3. Sites web utiles, contacts et support technique
+3.1. Support technique
+3.2. Sites web utiles
+
+################################################################################
+
+1. Instructions pour l'installation
+
+################################################################################
+
+1.1. Configuration nécessaire
+
+Configuration minimum :
+  Processeur : Pentium 4 hyper-threading cadencé à 3 GHz ou AMD Athlon 3000
+  Système d'exploitation : Windows Vista/Windows XP (SP2 uniquement)
+  Mémoire : 1 Go sous Windows XP/2 Go sous Windows Vista
+  Espace disque : 7 Go
+  Carte graphique : 128 Mo compatible DirectX et Shader 3.0
+  Carte son : Compatible DirectX
+  Version de DirectX : DirectX 9.0c (fourni sur le disque)
+
+Configuration recommandée :
+  Processeur : Intel ou AMD cadencé à 3,2 GHz
+  Système d'exploitation : Windows Vista/Windows XP (SP2 uniquement)
+  Mémoire : 2 Go
+  Espace disque : 7 Go
+  Carte graphique : 256 Mo compatible DirectX et Shader 3.0
+  Carte son : Compatible DirectX
+  Version de DirectX : DirectX 9.0c (fourni sur le disque)
+
+* Il n'est pas conseillé d'installer le jeu dans le dossier Windows (en général C:\Windows), un sous-dossier du dossier Windows, ni à la racine du système (en général C:\). 
+
+Cartes graphiques prises en charge :
+ ATI Radeon série X1000 - Radeon X1600, X1800, X1900, X1950
+ ATI Radeon série HD 2000 - HD 2600, HD 2900, GT/XT
+ ATI Radeon série HD 3000 - HD 3850, HD 3870, HD 3870 X2
+ NVIDIA série GeForce 6 - GeForce 6800 Ultra, 6800 GT, 6800 et GeForce 6600 GT
+ NVIDIA série GeForce 7 - GeForce 7950, 7900, 7800, 7600
+ NVIDIA série GeForce 8 - GeForce 8800 Ultra, GeForce 8800 GTX, GeForce 8800 GTS, GeForce 8800 GT, GeForce 8800 GS, GeForce 8600 GTS, GeForce 8600GT, GeForce 8500 GT
+ NVIDIA GeForce série 9 - GeForce 9600 GT
+
+* Les modèles ATI HD 2400 / Nvidia GEforce 7300 sont pris en charge, mais les performances peuvent se révéler insuffisantes dans le jeu.
+
+* Cartes graphiques non prises en charge : Toutes les cartes AGP
+
+
+Cartes son prises en charge : Son surround 5.1
+
+ Creative X-FI Pci-Express 
+ Creative Audigy IV series 
+ Creative Audigy II Series
+ Creative Audigy 1 Series
+ 
+Cartes son prises en charge : Stéréo
+ Chipset intégré - Realtek HD
+ Chipset intégré - SoundMAX HD
+ Chipset intégré - Sigmatel
+ Chipset intégré - C-Media
+ Cartes Hercules
+ Cartes Turtles Beach
+ 
+Gamepad pris en charge :
+ Xbox 360
+
+--------------------------------------------------------------------------------
+1.2. Sélection de la langue
+
+La langue choisie au début de l'installation est celle qui sera utilisée dans le
+jeu. Pour changer de langue, vous devez désinstaller le jeu et le réinstaller.
+
+
+################################################################################
+
+2. Problèmes connus
+
+################################################################################
+
+2.1. Installation des pilotes d'affichage et des pilotes de la carte mère
+
+Si vous rencontrez des problèmes d'affichage, installez les derniers pilotes
+disponibles pour votre carte graphique et votre carte mère. Des liens vers les
+fabricants des cartes graphiques et cartes mères les plus courantes sont
+disponibles à la fin de ce document.
+
+--------------------------------------------------------------------------------
+2.2. Installation des pilotes audio
+
+Si vous rencontrez des problèmes de son, installez les derniers pilotes audio
+disponibles pour votre carte son. Des liens vers les fabricants des cartes
+son les plus courantes sont disponibles à la fin de ce document.
+
+--------------------------------------------------------------------------------
+2.3. Installation de DirectX 9.0c
+
+Tom Clancy's Rainbow Six Vegas 2 nécessite DirectX 9.0c ou plus récent pour 
+fonctionner correctement. Pour vous procurer la dernière version de DirectX, 
+rendez-vous sur : http://www.microsoft.com/windows/directx
+
+DirectX 9.0c est également disponible sur le disque d'installation, dans le 
+répertoire Support/DirectX.
+
+--------------------------------------------------------------------------------
+2.4. Bugs et commentaires
+ 
+
+################################################################################
+
+3. Sites web utiles, contacts et support technique
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1. Support technique
+
+UBISOFT à votre service…
+
+Vous éprouvez des difficultés à installer ou à lancer un logiciel de notre
+gamme ? Vous êtes bloqué ou recherchez les codes ultimes vous permettant de
+progresser dans votre quête ? Vous voulez simplement en savoir plus sur nos
+prochains titres ?
+
+Voici toutes les coordonnées pour joindre notre Service Consommateurs et
+notre Support Technique :
+
+Service Consommateurs : infos, trucs et soluces
+
+
+Tel : 08.92.70.50.30. (0,34 €/min)
+Accès techniciens : lundi au vendredi 10h00-20h00
+
+Fax : 01.48.57.07.41
+
+serviceconso@ubisoft.fr
+
+Service Consommateurs Ubisoft
+28 rue Armand Carrel
+93108 Montreuil Sous Bois
+
+· Vous ne progressez plus dans votre logiciel préféré ?
+· Vous désirez connaître LE code de triche qui vous permettra de devenir
+  un joueur infaillible ?
+· Vous voulez être informé de notre actualité et de nos dates de sortie ?
+
+Support Technique
+
+Tel : 0825.355.306 (0,15 €/min)
+Accès techniciens : lundi au samedi 9h00-21h00
+Fax : 0825.001.263 (0,15 €/min)
+supportechnique@ubisoft.fr
+
+Support Technique Ubisoft
+TSA 90001
+13859 Aix en Provence Cedex 3
+
+· Vous éprouvez des difficultés lors des phases d’installation, de lancement
+  ou d’exécution de votre logiciel ?
+· Vous désirez être informé des patches et mises à jour concernant le produit
+  que vous venez d’acquérir ?
+
+N’hésitez pas à contacter notre Support Technique qui vous donnera la bonne marche
+à suivre pour que vous puissiez exploiter votre logiciel comme il se doit.
+
+36 15 UBISOFT (0,34 €/min)  et site internet « www.ubi.com/FR »
+
+Nos services minitel « 3615 UBISOFT » et internet «  www.ubi.com/FR » sont ouverts
+24 heures/24 et 7 jours/7.
+En vous rendant sur ces services, il vous sera possible de consulter les astuces
+et solutions de la plupart des jeux de notre gamme, de nous poser vos questions
+techniques par le biais de notre section S.O.S, de participer à de nombreux concours
+ou de télécharger les démos ou les mises à jour de vos logiciels favoris (uniquement
+sur internet).
+Ces services proposent également un catalogue à partir duquel vous pourrez commander
+directement les logiciels Ubisoft qui vous intéressent.
+
+--------------------------------------------------------------------------------
+3.2. Sites web utiles
+
+Site officiel de Tom Clancy's Rainbow Six 2 :
+	http://www.rainbowsixgame.com
+
+Pilotes DirectX :
+    http://www.microsoft.com/downloads
+
+Derniers pilotes ATI :
+	http://www.ati.com/support/driver.html
+
+Derniers pilotes NVIDIA :
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+Derniers pilotes Creative Labs :
+	http://us.creative.com/support/downloads/
+
+Derniers pilotes Intel :
+	http://downloadcenter.intel.com/
+	
+Derniers pilotes AMD :
+	http://www.amd.com/
+                                   
+                                                                                                                                            
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                    
+                                                    
+                        
+                                                                                                  
+                                                                          
+                                                                                                                                        
+                                                                                                                
+                                                                                                                                 
+                                                                    
+                                                                                                                                                   
+                             
+                                                                                                                                                                                                           
+                    

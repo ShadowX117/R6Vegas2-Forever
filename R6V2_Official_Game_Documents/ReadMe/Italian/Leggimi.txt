@@ -1,0 +1,240 @@
+################################################################################
+
+Ubisoft Entertainment
+Tom Clancy's Rainbow Six Vegas 2
+LEGGIMI.TXT 1.00
+
+################################################################################
+
+Sommario
+
+################################################################################
+
+1. Installazione del gioco
+1.1. Requisiti di sistema
+1.2. Selezione della lingua
+2. Problemi noti 
+2.1. Installare i driver per scheda video e scheda madre
+2.2. Installare i driver audio
+2.3. Installare DirectX 9.0c
+2.4. Bug e commenti
+3. Siti web rilevanti, contatti e Supporto Tecnico
+3.1. Supporto Tecnico
+3.2. Siti web rilevanti
+
+################################################################################
+
+1. Installazione del gioco 
+
+################################################################################
+
+1.1. Requisiti di sistema
+
+Configurazione minima:
+  CPU: Pentium IV a 3 GHz Hyper Treading o AMD Athlon 3000
+  Sistema operativo: Windows Vista/Windows XP SP2
+  RAM: 1 GB per Windows XP/2 GB per Windows Vista
+  Spazio su disco: 7 GB
+  Scheda video: scheda video da 128 MB compatibile con DirectX e Shader 3.0 
+  Scheda audio: scheda audio compatibile con DirectX
+  Versione DirectX: DirectX 9.0c (incluso nel disco)
+
+Configurazione consigliata:
+  CPU: Processori Intel e AMD a 3,2 GHz
+  Sistema operativo: Windows Vista/Windows XP SP2
+  RAM: 2 GB
+  Spazio su disco: 7 GB
+  Scheda video: scheda video da 256 MB compatibile con DirectX e Shader 3.0
+  Scheda audio: scheda audio compatibile con DirectX
+  Versione DirectX: DirectX 9.0c (incluso nel disco)
+
+* Non è consigliabile installare il gioco nella cartella Windows (ovvero C:\Windows), una sua sottocartella o la root del disco (ovvero C:\). 
+
+Schede video supportate:
+ ATI Radeon serie X1000 - Radeon X1600, X1800, X1900, X1950
+ ATI Radeon serie HD 2000 - HD 2600, HD 2900, GT/XT
+ ATI Radeon™ HD serie 3000 - HD 3850, HD 3870, HD 3870 X2
+ NVIDIA GeForce serie 6 - GeForce 6800 Ultra, 6800 GT, 6800 e GeForce 6600 GT
+ NVIDIA GeForce serie 7 - GeForce serie 7950, serie 7900, serie 7800, serie 7600
+ NVIDIA GeForce serie 8 - GeForce 8800 Ultra, GeForce 8800 GTX, GeForce 8800 GTS, GeForce 8800 GT, GeForce 8800 GS, GeForce 8600 GTS, GeForce 8600 GT, GeForce 8500 GT
+ NVIDIA GeForce serie 9 - GeForce 9600 GT
+
+* I modelli ATI HD 2400/Nvidia GeForce 7300 sono supportati, tuttavia le prestazioni di tali schede potrebbero non garantire un'esperienza di gioco soddisfacente.
+
+* Schede video non supportate: tutte le schede AGP
+
+Schede audio supportate: audio surround 5.1
+ Creative X-FI Pci-Express 
+ Creative Audigy serie IV
+ Creative Audigy serie II
+ Creative Audigy serie I
+
+Schede audio supportate: stereo
+ Integrata - Realtek HD
+ Integrata - SoundMAX HD
+ Integrata - Sigmatel
+ Integrata - C-Media
+ Serie Hercules
+ Serie Turtles Beach
+
+Gamepad supportati:
+Xbox 360
+
+--------------------------------------------------------------------------------
+1.2. Selezione della lingua
+
+La lingua selezionata durante l'installazione verrà utilizzata all'interno del
+gioco. Per cambiare lingua è necessario rimuovere e reinstallare il gioco.
+
+
+################################################################################
+
+2. Problemi noti
+
+################################################################################
+
+2.1. Installare i driver per scheda video e scheda madre
+
+Se riscontri problemi di grafica, installa la versione più recente dei driver 
+per scheda video e scheda madre. I link ai produttori delle più importanti schede
+video sono disponibili alla fine di questo documento.
+
+--------------------------------------------------------------------------------
+2.2. Installare i driver audio
+
+Se riscontri problemi relativi all'audio, installa la versione più recente dei driver 
+per la tua scheda audio. I link ai produttori delle più importanti schede audio
+sono disponibili alla fine di questo documento.
+
+--------------------------------------------------------------------------------
+2.3. Installare DirectX 9.0c
+
+Per un corretto funzionamento Tom Clancy's Rainbow Six Vegas 2 richiede DirectX 9.0c o una versione più recente. Per ottenere l'ultima versione di DirectX, visita la pagina web:
+http://www.microsoft.com/windows/directx
+
+DirectX 9.0c è presente nel disco d'installazione nella cartella Support\DirectX.
+
+--------------------------------------------------------------------------------
+2.4. Bug e commenti
+
+
+################################################################################
+
+3. Siti web rilevanti, contatti e Supporto Tecnico
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1. Supporto Tecnico
+
+Prima di contattare il Supporto Tecnico di Ubisoft Entertainment, consulta
+l'elenco delle risposte o il database di supporto sul nostro sito web
+http://support.ubi.com. Qui troverai le informazioni più aggiornate dall'uscita
+del gioco.
+
+Assicurati inoltre che il tuo computer risponda ai requisiti minimi di sistema, 
+perché i nostri incaricati non potranno fornire assistenza ai possessori di 
+computer che non soddisfino tali criteri.
+
+Nel contattare il Supporto Tecnico, accludi le seguenti informazioni o tienile a 
+portata di mano in caso di contatto telefonico:
+
+- Titolo completo del gioco (incluso il numero di versione)
+- Dicitura esatta dell'eventuale messaggio comparso e breve descrizione del
+problema riscontrato
+- Modello e velocità del processore
+- Quantità di RAM
+- Sistema operativo
+- Scheda video utilizzata e relativa quantità di RAM
+- Modello e velocità dell'unità DVD-ROM
+- Modello di scheda audio utilizzata
+
+Contattaci su Internet
+Questo è il sistema migliore per contattarci. Il nostro sito web è attivo 24 ore 
+su 24, 7 giorni alla settimana e contiene le informazioni tecniche più recenti, 
+compresi gli aggiornamenti scaricabili gratuitamente. Le pagine di supporto tecnico
+vengono aggiornate quotidianamente, perciò prova a cercare prima qui la soluzione ai
+tuoi problemi:
+http://support.ubi.com/.
+
+Contattaci tramite posta elettronica
+Per una risposta più rapida tramite e-mail, visita il nostro sito web all'indirizzo:
+
+http://support.ubi.com/
+
+Da questo sito potrai accedere all’Ubisoft Solution Center, dove è possibile
+consultare gli elenco di risposte, svolgere ricerche nel nostro database di
+problemi noti e soluzioni, o, per una risposta più rapida tramite e-mail,
+inviare una richiesta di assistenza personale da parte di un incaricato
+del Supporto Tecnico. In base al volume di messaggi che riceviamo, potrebbero 
+intercorrere anche 72 ore prima di ricevere una risposta. 
+
+Contattaci telefonicamente
+Se non disponi di una casella di posta elettronica, puoi anche contattarci 
+telefonicamente al numero 02/48867160. Il Supporto Tecnico non può fornire 
+consigli o suggerimenti sul gioco. Quando chiami il Supporto Tecnico, fai 
+in modo di trovarti al computer e di avere sotto mano tutte le informazioni 
+necessarie riportate sopra. Gli incaricati del Supporto Tecnico possono 
+fornire assistenza dal lunedì al venerdì, dalle ore 15.00 alle ore 16.30.
+Benché il servizio che offriamo sia gratuito, le telefonate saranno soggette 
+alle normali tariffe. Per evitare lunghe chiamate interurbane o contattare 
+i nostri incaricati fuori dagli orari indicati, serviti di uno dei sistemi di 
+contatto sopra elencati. Le e-mail relative a problemi tecnici 
+riceveranno risposta entro 2 giorni lavorativi.
+
+Contattaci tramite posta ordinaria
+
+Se non hai alternative, puoi scriverci presso:
+
+Ubisoft Technical Support
+3200 Gateway Center Blvd
+Suite 100
+Morrisville, NC 27560
+
+o
+
+Ubisoft Technical Support
+5505 Boulevard Saint Laurent
+Suite 5000
+Montreal, Quebec
+Canada H2T 1S6
+
+--------------------------------------------------------------------------------
+3.2. Siti web rilevanti
+
+Sito web ufficiale di Tom Clancy's Rainbow Six 2:
+	http://www.rainbowsixgame.com
+
+DirectX:
+    http://www.microsoft.com/downloads
+
+Driver ATI più recenti:
+	http://ati.amd.com/support/driver.html
+
+Driver NVIDIA più recenti:
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+Driver Creative Labs più recenti:
+	http://it.europe.creative.com/support/downloads/
+	
+Driver Intel più recenti:
+	http://downloadcenter.intel.com/
+	
+Driver AMD più recenti:
+	http://www.amd.com/
+                                                                                                                                                                                                                                                     
+                                  
+                                                         
+                                                                                                                                                                               
+                                                                                                                                                                                                                                                              
+             
+                                                                                                                                                                      
+                                                                      
+                                                                                                                                                                                               
+                                                    
+                                                                                                                                                                                                                                                  
+              
+                                   
+                                                                                                       
+                                                                                                                                                                                                   
+                                                                                                                                                                                                                                               
