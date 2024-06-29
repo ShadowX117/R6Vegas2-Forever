@@ -4,3 +4,70 @@
 
 This is a backup of the available patches for Rainbow Six Vegas 2 from: 
 http://patches.ubi.com/rainbow_six_vegas_2/
+
+## File Hashes
+
+### MD5
+e4055b7d3889e7adfd3f8567ba8645fc  rainbow_six_vegas_2_1.03_ger.exe
+
+288527ab69a0bf7d418ff07914bac7d1  rainbow_six_vegas_2_1.03.exe
+
+f37c6a64a6f0e05f8577aeb60c89ca83  rainbow_six_vegas_2_1.02_ger.exe
+
+fa47e950ae43caa5c8f30c227c9a544c  rainbow_six_vegas_2_1.02.exe
+
+5308a62f775e2f65076b91bc9cc77c50  rainbow_six_vegas_2_1.01_ger.exe
+
+b8dc532657d638abd0dcd8aeebc8b589  rainbow_six_vegas_2_1.01.exe
+
+### SHA1
+95ac4369b66a3fbf8c100fec97b606eaeb2402cb  rainbow_six_vegas_2_1.03_ger.exe
+
+d12c17e84441aeb7299cefec6b88d2b51311b555  rainbow_six_vegas_2_1.03.exe
+
+d520dc3b9cac3f130978ef703fd7cf8e96d1c079  rainbow_six_vegas_2_1.02_ger.exe
+
+a1eea7984cceb24ba1093b592dca0de38f06ff18  rainbow_six_vegas_2_1.02.exe
+
+fdd973060ab8bf30a51b1fa849e924ca22fea27a  rainbow_six_vegas_2_1.01_ger.exe
+
+3bca45f8c26249f8e507a465a370a8534e665b03  rainbow_six_vegas_2_1.01.exe
+
+### SHA256
+d8f2ee664b25a4255020b1b65a9da9cc643d53c087bedf406d6fa4e83e0452be  rainbow_six_vegas_2_1.03_ger.exe
+
+2d94ae59d6b6fca7818a35562c21b41339a7e0673bfe94d0fe00de5e99761366  rainbow_six_vegas_2_1.03.exe
+
+62ec30f52f2704a90b1e9d147df4913cce371d466562aaefd452fb383ad8de13  rainbow_six_vegas_2_1.02_ger.exe
+
+806a4711047b3437a349525bcce7966640ab6e2dd7230bcf528d849c0dac24b1  rainbow_six_vegas_2_1.02.exe
+
+c50e42f8b68d83ee2c383e3637995e11a40891986d90289db2cae9446dbb321c  rainbow_six_vegas_2_1.01_ger.exe
+
+8cea8fdc68537d8d434c842d13155cda3b22350bd8bcd33d3d9ad2c7fa6b6cd1  rainbow_six_vegas_2_1.01.exe
+
+### SHA512
+3d3befdd418df73564d4085937a079ba55998012a392b0c113da862279ce77084db85ae7d8821975f0b3974344b5c49303461b81ca21d179768167e3264f8216  rainbow_six_vegas_2_1.03_ger.exe
+
+17340b8710fd71349b5e2cc80bb89a3d411e6fdb44c6fa07091d6d2e279da57cc3baac2f39823f174a52ccf397da642668c5f3bf7ba1501a34accbed4061049e  rainbow_six_vegas_2_1.03.exe
+
+75c3635ef1fee6203d817124bf670c1cee5d15a28bae8d2046c2d7ac4aefe597576dea45c2c3176428c4de6402389b806894036e21e09ad30967e1ee18343647  rainbow_six_vegas_2_1.02_ger.exe
+
+2f48dfd13baf70440e7ea4484c85454f47ce63705f3eebe964057a909bb289db966089f34e6bb7ad0a3b604e303f212db2447b8021191761bb3c70f21c09c89f  rainbow_six_vegas_2_1.02.exe
+
+94ea2515a4e3141653ea50c17c4ba8f50692dad7e8fac33fa0925813ced6febb455483217bd6fca7ac3e51c579554431fdd176d08bc9e963b3ef3939e956ff12  rainbow_six_vegas_2_1.01_ger.exe
+
+249e0ad81414c0b2210eadacc103755c55934127908588823104e27635e8d80247ae3a4b8c87e5ecc205e4a7640d096b49b6ad91694f705b2019684cba2f433d  rainbow_six_vegas_2_1.01.exe
+
+### CRC32
+28a895af  rainbow_six_vegas_2_1.03_ger.exe
+
+75b9795e  rainbow_six_vegas_2_1.03.exe
+
+a279b2db  rainbow_six_vegas_2_1.02_ger.exe
+
+08791575  rainbow_six_vegas_2_1.02.exe
+
+e1b9a194  rainbow_six_vegas_2_1.01_ger.exe
+
+e5f8ba53  rainbow_six_vegas_2_1.01.exe
