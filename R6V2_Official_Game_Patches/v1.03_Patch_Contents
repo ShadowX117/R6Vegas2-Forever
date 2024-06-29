@@ -1,0 +1,97 @@
+================================================================================
+
+Tom Clancy's Rainbow Six® Vegas 2 v1.03 Patch Contents
+
+================================================================================
+
+Features:
+
+* Added (1)new gameplay features
+* Added (2)UPnP support
+* Added HostName and Ping sort for Match selection
+
+Bugs fixed:
+
+* Fixed Some (3)Ping issues
+* Fixed Terrorist hunt Spawning
+* Fixed automatic weapons shoot without holding the trigger
+* Fixed spawn with leader in Streets map
+* Fixed Custom search issues
+
+--------------------------------------------------------------------------------
+(1)New Gameplay features
+--------------------------------------------------------------------------------
+
+* New Ranks
+Many additional ranks have been added for you to unlock past the rank of Elite. XP you’ve already accumulated as Elite will be applied towards the new ranks.
+
+* New A.C.E.S.
+The A.C.E.S. now go up to 100 for each of the three categories: Marksman, CQB and Assault. Each A.C.E.S. level earned contains a substantial XP reward. Points you’ve already accumulated in each of the categories will be applied towards the new levels.
+
+* Grenade Indicator
+When inside the damage radius of a Frag or Incendiary Grenade, a grenade indicator Icon is displayed on the screen.
+
+* High Stakes
+- Experience the game modes in a more tactical way using the High Stakes setting.
+- Limited HUD
+- No Radar
+- Enemies not visible on Tactical Map
+- Grenade Indicator is disabled
+- Health System
+- Health Regeneration is disabled
+- Changed the post-process effects of being in a Critical health state
+- Take Cover
+- Camera view has changed so that you must expose yourself to see around the side of a corner.
+- Weapons & Gadgets
+- Auto-aim is completely disabled
+- Bullet spread is increased when not zoomed in. To be precise with your weapon, zoom in.
+- Less ammunition.
+- Kill Camera is always disabled
+- Friendly Fire is always enabled
+
+* Weapons & Gadgets Balancing
+- Explosion delay of the incendiary grenade has been increased.
+- Detonation speed of the C4 has been slightly increased.
+- Increased the damage of Sniper Rifles at long range.
+- Increased the base accuracy of the Light Machine Guns.
+- Adjusted the Rate of Fire for some of the Assault Rifles, Shotguns and an SMG.
+- Speed up the time it takes to zoom in & out with weapons to make it more responsive.
+
+* Respawns in Team Deathmatch
+Hosts can choose whether or not their match uses random respawns in Team Deathmatch.
+
+* Voice Chat
+Hosts can choose to enable voice chat between living and dead players of the same team so that when you die you can keep talking with your teammates. Player Match and System Link only.
+
+* Score in Deathmatch
+Your score, along with the top opponent, is displayed on your HUD in Deathmatch.
+
+* Team Leader changes
+Respawn next to your leader by default, unless you specifically choose to spawn back at your base.
+
+* Show Dead Players in Lobby
+Players that have no lives remaining will have a skull icon displayed next to their name in the lobby screen so that you can easily tell who’s still alive and who’s been eliminated.
+
+--------------------------------------------------------------------------------
+(2)UPnP Support Notes
+--------------------------------------------------------------------------------
+Universal Plug and Play allows players behind a UPnP capable router to fully enjoy the online experience of Rainbow Six Vegas 2.
+
+Network will be automatically configured to allow voice chat, custom head and ping features to work seamlessly behind a router.
+
+You can enable/disable UPnP in the multiplayer tab in the options page.
+
+Troubleshooting
+--------------------------------------------------------------------------------
+* Ensure UPnP is enabled on the router.
+* Firewall is not blocking the following ports
+* Windows XP or above: 2869(TCP) and 1900 (UDP)
+* Windows XP(SP1) or earlier: 5000(TCP) and 1900 (UDP)
+* Windows Vista: Network discovery is turned ON
+
+--------------------------------------------------------------------------------
+(3)Ping (Not using UPnP)
+--------------------------------------------------------------------------------
+The port 11120 (UDP) should be added manualy to the router port mappings.
+
+================================================================================
